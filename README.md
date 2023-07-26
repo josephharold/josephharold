@@ -1,4 +1,4 @@
-Hello! I'm an aspiring front-end developer based in the Philippines.
+Hello! I'm a React JS developer based in the Philippines.
 For more details you can contact me at:
  - email: josephharold.timbang.dev@gmail.com
  - phone: +639566539854
